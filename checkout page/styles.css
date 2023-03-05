@@ -1,0 +1,65 @@
+body{
+    background-image: url(background-check.jpeg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    font: red;
+    height: 100vh;
+    
+}
+
+#checkout-card{
+    
+    padding: 2rem 10rem 2rem 10rem;
+    
+}
+
+
+
+@media screen and (min-width: 576px) {
+    body {
+        background-image: url(background-check.jpeg);
+        background-repeat: no-repeat; 
+        background-size: cover;
+        height: 100vh;
+    }
+  }
+
+@media only screen and (min-width: 600px) {
+    body {
+    background-image: url(background-check.jpeg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    height: 100vh;
+
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    body {
+    background-image: url(background-check.jpeg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    height: 100vh;
+    ba
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    body {
+    background-image: url(background-check.jpeg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    height: 100vh;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    body {
+    background-image: url(background-check.jpeg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    height: 100vh;
+    font: red;
+    }
+}
+
